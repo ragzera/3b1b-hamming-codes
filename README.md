@@ -1,2 +1,2 @@
-# 3b1b-hamming-code
+# 3b1b-hamming-codes
 Hamming Code example implementation in Python
